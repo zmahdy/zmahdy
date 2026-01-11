@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hello World! I'm Mahdi. 
-WhatsApp: +93795754108
+Hello, world!
+
+
+I'm beginning an exciting new journey into programming.
+I’m glad to be part of this community and to work toward making my dreams come true.
+Let’s connect and grow together.
+
 
 
 ## 🌐 Socials:
